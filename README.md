@@ -37,7 +37,8 @@ Streamlit Chatbot\
       ↓\
 Power BI
 
-##Screenshots
+
+## Screenshots
 
 ADF Pipeline
 <img width="1107" height="511" alt="image" src="https://github.com/user-attachments/assets/b0e5963b-ad46-47ba-9f15-82987c6c3cab" />
