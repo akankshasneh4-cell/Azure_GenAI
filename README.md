@@ -35,7 +35,7 @@ OpenAI (Huggingface)\
       ↓\
 Streamlit Chatbot\
       ↓\
-Power BI\
+Power BI
 
 ##Screenshots
 
