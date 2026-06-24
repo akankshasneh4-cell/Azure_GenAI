@@ -18,24 +18,24 @@
 ## Architecture
 
 Source Files\
-      ↓
+      ↓\
 ADF\
-      ↓
+      ↓\
 ADLS Bronze\
-      ↓
-Databricks + PySpark
-      ↓
-Silver Layer
-      ↓
-Gold Layer
-      ↓
-LangChain + FAISS
-      ↓
-OpenAI (Huggingface)
-      ↓
-Streamlit Chatbot
-      ↓
-Power BI
+      ↓\
+Databricks + PySpark\
+      ↓\
+Silver Layer\
+      ↓\
+Gold Layer\
+      ↓\
+LangChain + FAISS\
+      ↓\
+OpenAI (Huggingface)\
+      ↓\
+Streamlit Chatbot\
+      ↓\
+Power BI\
 
 ##Screenshots
 
